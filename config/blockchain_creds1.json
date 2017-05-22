@@ -32,8 +32,8 @@
         ],
         "app": {
             "channel_id": "mychannel",
-            "chaincode_id": "end2end",
-            "chaincode_version": "v1",
+            "chaincode_id": "end3end",
+            "chaincode_version": "v2",
             "block_delay": 1000
         },
         "tls_certificates": {
