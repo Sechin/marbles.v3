@@ -1,6 +1,6 @@
 {
 	"credentials": {
-		"network_id": "FakeNetworkId",
+		"network_id": "intela",
 		"orderers": [
 			{
 				"discovery": "grpc://localhost:7050",
